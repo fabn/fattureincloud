@@ -1,0 +1,11 @@
+{
+  "gemName": "fattureincloud",
+  "moduleName": "FattureInCloud",
+  "gemVersion": "1.0.0",
+  "gemHomepage": "https://api.fattureincloud.it/v1/documentation/dist/",
+  "gemSummary": "Ruby Client for FattureInCloud API",
+  "gemDescription": "Swagger client generated from API specs",
+  "gemLicense": "MIT",
+  "gemAuthor": "Fabio Napoleoni",
+  "gemAuthorEmail": "f.napoleoni@gmail.com"
+}
