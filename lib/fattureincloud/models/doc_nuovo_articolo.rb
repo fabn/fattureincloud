@@ -226,7 +226,7 @@ module FattureInCloud
       if attributes.has_key?(:'sconto_rosso')
         self.sconto_rosso = attributes[:'sconto_rosso']
       else
-        self.sconto_rosso = SCONTO_ROSSO.0
+        self.sconto_rosso = 0 # SCONTO_ROSSO.0 # TODO investigate this value
       end
 
       if attributes.has_key?(:'in_ddt')
